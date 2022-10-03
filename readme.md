@@ -34,3 +34,11 @@
     image.write(image_link.content) -->
 
 ==========================================
+
+# SAMPLE SCRAPING PRACTICE WEBSITES :
+
+1. https://toscrape.com/
+2. http://books.toscrape.com/
+3. http://quotes.toscrape.com/
+
+==========================================
