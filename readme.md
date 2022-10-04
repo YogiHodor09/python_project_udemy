@@ -42,3 +42,15 @@
 3. http://quotes.toscrape.com/
 
 ==========================================
+
+# PYTHON DATA ANALYSIS LIBS :
+
+# FOR CSV FILE ,EXCEL FILES :
+
+1. PANDAS
+2. OPENPYXL
+3. GOOGLESHEETS PYTHON API
+
+# FOR PDF FILES :
+
+1. PyPDF2 - open source and free
