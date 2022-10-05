@@ -54,3 +54,19 @@
 # FOR PDF FILES :
 
 1. PyPDF2 - open source and free
+
+# SENDING EMAIL WITH PYTHON :
+
+1. Connecting to email server
+2. Confirming connection
+3. Setting a protocol
+4. Logging on
+5. Sending the message
+
+# EMAIL LIBS :-
+
+- smtplib
+
+# RECEIVE EMAIL IN PYTHON :
+
+LIB :- imaplib (Search Inbox for the email received.)
